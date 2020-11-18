@@ -5,7 +5,6 @@
 #include <Windows.h>
 #include <string>
 #include "cgui/Graphics.h"
-#include "cinput/Input.h"
 #include "GameOfLife.h"
 
 
